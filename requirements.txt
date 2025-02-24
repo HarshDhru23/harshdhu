@@ -5,3 +5,6 @@ ipywidgets
 matplotlib
 bqplot
 IPython
+jupyter
+nbclassic
+ipython_genutils
